@@ -1,5 +1,5 @@
-# devops-netelogy
-# ddd
+#devopn-netelogy
+
 
 #Буду игнорироваться *.dll и *.exe и закомпилиный исходники
 <<<<<<< HEAD
